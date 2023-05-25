@@ -1,0 +1,87 @@
+TOPICS:
+1.AWS EC2
+2.LAMBDA
+3.ELASTIC BEANSTALK 
+============================
+CAHPTER 1
+
+What is instance?
+AWS EC2 Service
+Types of EC2 Instances
+Instance Pricing Models
+Use Cases
+Demo: Instances in AWS
+
+=============================
+
+1. What is an instance:
+
+An instance is a virtual server for running application on Amazon EC2. 
+It can also be understood like a tiny part of a larger computer, a tiny part which has its own Hard drive, 
+network connection, OS etc. But it is actually all virtual. 
+
+2. What is EC2?
+Elastic Computer Cloud.
+EC2 is a web service from Amazon that provides resizeable computer service in the cloud.
+Features :
+Scalable 
+Cost Efficient:  
+Flexibile
+
+3. Types of Instances:
+EC2 is one of the oldest instances of AWS.
+T series.
+M series.
+C series.
+
+General purpose instance: balance of performance and cost. 
+When you need a prompt response , cost effectiveness, less processing. 
+
+Compute Instance:
+There are for application which requires lots of processing from the CPU.
+eg. analyzing streaming data. .. data which is stream in and out. 
+
+Memory Instances:
+Applications that are heavy in nature, therefore , require a lot of RAM. 
+eg. 
+
+Storage Instance:
+Appicaiton which requires to store huze size or have a data set of large size.
+
+GPU Instances:
+
+Applications requires heavy grphics rendering. 
+
+4. EC2 Pricing Models:
+
+a. On demand: Instance for hourly basis.
+b. Dedicated: Instances which are private.
+c. On spot: data which is volatile... instance given on 
+d. Reserved:
+
+5. Instaces based upon their functioning:
+
+a. Burstable
+b. EBS OPtimised
+c. Cluster Networking
+d. Dedicated
+
+6. USE CASE:
+
+EDUREKA
+Suppose it is using AWS as a service.
+
+1. Anslysis of customers data: Burstable instance.... performance and analysis and customer data is not fixed .. it is Flexibile
+2. Auto Response E-mail System: EBS OPtimised... i need quick response..
+3. Search Engine and Browsing: Cluster Network instances........two things
+4. Confidential data processing: Dedicated instances
+
+===========================================================================================
+AWS EC2 instance is a virtual machine service which provides an environment like a machine or server to a user.
+
+
+
+
+
+
+

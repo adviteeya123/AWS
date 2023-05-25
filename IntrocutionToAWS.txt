@@ -1,0 +1,65 @@
+Amazon Web Services is a secure cloud services platform offering computer power, 
+database storeage, content delivery and other functionality to help businesses scale and grow. 
+
+AWS is having 6x computer capacity if x is the total compute capacity of all the other cloud service providers
+
+USE Cases:
+
+A. Manufacturing organization:
+Their main focus is to manufacuture goods. 
+But most of the businesses they focus so much on various other services are practices 
+that needs to be taken care of that they cannot focus on the Manufacturing goal that is manufacturing goods.
+Thats where AWS steps in..
+It takes cares of all the IT infrastructres services and management.
+
+B. Architecture Consulting
+C. Media company 
+D. Large Enterprises
+
+##Advantages of AWS or Features of AWS
+
+1. Flexibility
+2. Cost Effective
+3. Scalability
+4. Security
+
+##AWS Architecture
+
+1. Regions and Availability zones
+2. 
+
+
+##Domains of AWS
+
+1. Computer:
+EC2: Elastic class compute , it is a clean slate
+Elastic BeansStalk: It has pre defined libraries 
+
+2. Migration:
+It has a global migration.
+Physical migration .. why ?
+depends upon the size of the data. 
+e.g. Snowball: Storage services
+3. Security and Compliance:
+e.g. IAM , KMS etc.
+
+4. Storage: Place where you store your executeable file
+S3: Bucket object 
+Cloud front
+Glacier : Place to store archieve
+
+5. Networking
+VPC
+
+6. Messaging:
+Cloudtrial
+Opswork
+
+7. Databases:
+Aurora
+DynamoDB: Non relation DBMS
+
+8. Management tools:
+Cloud Watch : To create alarms
+
+

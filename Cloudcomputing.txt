@@ -1,0 +1,96 @@
+##What is cloud computing ?
+Cloud computing is :
+a. Storing data/application on remote servers
+b. Processing data/application from remote servers
+c. Accessing data / application from remote servers
+
+
+##Service Model
+Platform to use services. Certain people who want certain resources. 
+Model which suits your needs.
+a. IaaS
+b. PaaS
+c. SaaS
+
+1. SaaS:
+Software as a service. 
+e.g. gmail, salesforce.com provides CRM on a cloud infrastrucuture to its client and charges them for it, but the Software is owned by the salesforce company only
+Cloud provider leases application or Software which are owned by them to its client
+
+DATA ------------------------ YOU MANAGE
+APPLICATIONS------------
+RUNTIME                :
+MIDDLEWARE             :
+OS                     :
+VIRTUALIZATION         :      MANAGE BY VENDOR
+SERVERS                :
+STORAGE                :
+NETWORKING -------------           
+
+
+2. PaaS
+Platform as a service
+No control over the underlying architecture including OS, storage, servers, etc.
+e.g. google search engine
+The cloud provider gives the ability to the customer to deploy customer created apps using programming languages, tools etc. that are provided by the cloud provider
+
+DATA ------------------------ YOU MANAGE
+APPLICATIONS ----------------
+RUNTIME  ------------  :
+MIDDLEWARE             :
+OS                     :
+VIRTUALIZATION         :      MANAGE BY VENDOR
+SERVERS                :
+STORAGE                :
+NETWORKING -------------           
+3. IaaS
+infrastrucuture as a service
+provides virtualized computing resources orver the internet
+no worried about the underlying physical machine
+abstract the user from the physical machine
+DATA ------------------------ 
+APPLICATIONS                :   YOU MANAGE
+RUNTIME                     :
+MIDDLEWARE ------------------         
+OS     ------------    :               
+VIRTUALIZATION         :      MANAGE BY VENDOR
+SERVERS                :
+STORAGE                :
+NETWORKING -------------  
+
+
+##Deployment Models
+
+Different types of clouds.
+
+1. Public cloud: 
+Service provider makes resources.. you can go ahead and rent your service.
+
+2. Private cloud:
+Provided by firewall.
+
+3. Hybrid cloud:
+Mix of public and private cloud.
+
+
+##Cloud providers
+
+1. GCP
+2. AWS
+3. AZURE
+4. IBM
+5. DIGITAL OCEAN
+
+AWS: 
+Widely used across the world.
+
+AZURE:
+It is the second best cloud service provider.
+
+GCP:
+It has google serch engine.
+How to handle vast amount the data.
+Cheap service providers.
+It helps to optimize cost by using analytics. 
+Providers pay less for powers.
+

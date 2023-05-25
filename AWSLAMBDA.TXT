@@ -1,0 +1,20 @@
+1. AWS Compute Domain:
+
+The three main services under AWS Compute Domain are:
+a. EC2
+b. Elastic Beanstalk 
+c. AWS Lambda 
+EC2 is most important. Its like a personal computer or a raw server/ web server etc.
+Elastic Beanstalk: You have an access to the configuration of OS. This is to deploy an application.
+Lambda: Upload your code and it executes the code. It is an automated version of EC2. It is user to execute background tasks.
+
+What is AWS Lambda?
+
+It is a serverless compute service, just put the code on lambda and it runs. 
+
+AWS SDK's:
+
+Software developments Kits are basically API's which are used by developers to connect to the desired service at the wound.
+So it makes the life of a developers easy because he can not conentrate on the logical part of his application.
+
+
