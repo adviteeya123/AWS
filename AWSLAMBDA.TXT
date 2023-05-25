@@ -17,4 +17,5 @@ AWS SDK's:
 Software developments Kits are basically API's which are used by developers to connect to the desired service at the wound.
 So it makes the life of a developers easy because he can not conentrate on the logical part of his application.
 
-
+In order connect AWS we can use eclipse or visula studio as an IDE. 
+And in the Eclipse ide we can go to help and then go to install software and then type the "www.aws.com/eclipse" and then add then install all the available option and then downlod it. 
