@@ -19,9 +19,9 @@ git add *
 git commit -m "some init msg"
 
 ============================================================================================
-abc@6d02cbaf2cce:~/workspace$ git init
+git init
 Reinitialized existing Git repository in /config/workspace/.git/
-abc@6d02cbaf2cce:~/workspace$ git config user.name "adviteeya123"
-abc@6d02cbaf2cce:~/workspace$ git config user.email "adviteeya.shrav21@st.niituniversity.in"
-abc@6d02cbaf2cce:~/workspace$ git add *
-abc@6d02cbaf2cce:~/workspace$ git commit -m "done1"
+git config user.name "adviteeya123"
+git config user.email "adviteeya.shrav21@st.niituniversity.in"
+git add *
+git commit -m "done1"
