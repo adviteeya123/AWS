@@ -25,3 +25,4 @@ git config user.name "adviteeya123"
 git config user.email "adviteeya.shrav21@st.niituniversity.in"
 git add *
 git commit -m "done1"
+git push
